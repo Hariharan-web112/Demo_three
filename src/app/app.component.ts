@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { FormGroup } from '@angular/forms';
+
 
 @Component({
   selector: 'app-root',
@@ -9,8 +9,6 @@ import { FormGroup } from '@angular/forms';
 })
 export class AppComponent {
   title = 'demo_three';
-
-  form: FormGroup;
 
 
 
